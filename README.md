@@ -42,35 +42,43 @@
 
 ### 🔧 Installation
 
-1. **Clone the Repository**
+> **Clone the Repository**
+> ```
+> git clone https://github.com/Parlynx1/Commercial-real-estate-voice-AI.git
+> cd commercial-real-estate-voice-ai
+> ```
 
-git clone https://github.com/Parlynx1/Commercial-real-estate-voice-AI.git
-cd commercial-real-estate-voice-ai
-Create and Activate Virtual Environment
+---
 
-2. **Create and Activate Virtual Environment**
-   
-python -m venv venv
-source venv/bin/activate     # On Windows: venv\Scripts\activate
-Install Dependencies
+> **Create and Activate Virtual Environment**
+> ```
+> python -m venv venv
+> source venv/bin/activate   # On Windows: venv\Scripts\activate
+> ```
 
-3. **Install Dependencies**
-   
-pip install -r requirements.txt
+---
 
-4. **Create Environment Variables**
-   
-Create Environment Variables
-Rename .env.example to .env and add your keys:
+> **Install Dependencies**
+> ```
+> pip install -r requirements.txt
+> ```
 
-env
-OPENAI_API_KEY=your_key_here
-Run the Application
+---
 
-5. **Run the Application**
-   
-python final_web_app.py
-Visit http://localhost:8000
+> **Create Environment Variables**
+> Rename `.env.example` to `.env` and add your keys:
+> ```
+> OPENAI_API_KEY=your_key_here
+> ```
+
+---
+
+> **Run the Application**
+> ```
+> python final_web_app.py
+> ```
+> Visit [http://localhost:8000](http://localhost:8000)
+
 
 ## 🔍 API Endpoints
 
@@ -105,7 +113,10 @@ commercial-real-estate-voice-ai/
 🧪 Testing
 To run unit tests:
 
-pytest test_api.py
+> ```
+> pytest test_api.py
+> ```
+
 🛠️ Deployment Options
 ✅ Localhost (default FastAPI server)
 
@@ -138,7 +149,7 @@ For questions, suggestions, or collaboration:
 
 📧 Email: pmattupa@mail.yu.edu
 
-🌐 LinkedIn: Pardhu Mattupalli
+🌐 [LinkedIn: Pardhu Mattupalli](https://www.linkedin.com/in/pardhu--mattupalli/)
 
 🧠 Acknowledgments
 Okada & Company for inspiration
