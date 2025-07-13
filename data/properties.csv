@@ -1,0 +1,226 @@
+unique_id,Property Address,Floor,Suite,Size (SF),Rent/SF/Year,Associate 1,BROKER Email ID,Associate 2,Associate 3,Associate 4,Annual Rent,Monthly Rent,GCI On 3 Years
+1,36 W 36th St,3.0,300,18650,87.0,Hector Barbossa,test1@okadaco.com,Jorah Mormont,Meemaw,Oscar Piastri,1622550,135213,292059
+2,15 W 38th St,3.0,300,17260,109.0,Joshamee Gibbs,test1@okadaco.com,Tyrion Lannister,George Cooper Sr.,Fernando Alonso,1881340,156778,338641
+3,15 W 38th St,6.0,600,15044,87.0,James Norrington,test1@okadaco.com,Daenerys Targaryen,Dr. Linkletter,Max Verstappen,1308828,109069,235589
+4,15 W 38th St,7.0,702,9421,90.0,Hector Barbossa,test1@okadaco.com,Daenerys Targaryen,Dr. Sturgis,Oscar Piastri,847890,70658,152620
+5,15 W 38th St,8.0,808,17536,92.0,Tia Dalma,test1@okadaco.com,Tyrion Lannister,Dr. Linkletter,Lewis Hamilton,1613312,134443,290396
+6,15 W 38th St,9.0,901,18916,89.0,Cutler Beckett,test1@okadaco.com,Arya Stark,Pastor Jeff,Sergio Perez,1683524,140294,303034
+7,15 W 38th St,9.0,902,12647,86.0,Cutler Beckett,test1@okadaco.com,Bran Stark,Meemaw,Sergio Perez,1087642,90637,195776
+8,15 W 38th St,10.0,101,18177,90.0,Jack Sparrow,test1@okadaco.com,Cersei Lannister,Brenda Sparks,Carlos Sainz,1635930,136328,294467
+9,15 W 38th St,11.0,1102,12021,94.0,Tia Dalma,test1@okadaco.com,Sansa Stark,Sheldon Cooper,Oscar Piastri,1129974,94165,203395
+10,15 W 38th St,11.0,1103,9337,104.0,Elizabeth Swann,test1@okadaco.com,Tyrion Lannister,Pastor Jeff,George Russell,971048,80921,174789
+11,15 W 38th St,12.0,1202,12956,101.0,Cutler Beckett,test1@okadaco.com,Jaime Lannister,George Cooper Sr.,Lewis Hamilton,1308556,109046,235540
+12,1412 Broadway,4.0,404,15687,95.0,Jack Sparrow,test1@okadaco.com,Jorah Mormont,Sheldon Cooper,Lewis Hamilton,1490265,124189,268248
+13,1412 Broadway,4.0,407,19712,107.0,Davy Jones,test1@okadaco.com,Jaime Lannister,Brenda Sparks,Fernando Alonso,2109184,175765,379653
+14,1412 Broadway,5.0,500,16434,81.0,Cutler Beckett,test1@okadaco.com,Jaime Lannister,Missy Cooper,Carlos Sainz,1331154,110930,239608
+15,1412 Broadway,6.0,600,10904,102.0,Hector Barbossa,test1@okadaco.com,Jaime Lannister,Sheldon Cooper,Fernando Alonso,1112208,92684,200197
+16,1412 Broadway,7.0,700,13073,80.0,Elizabeth Swann,test1@okadaco.com,Daenerys Targaryen,Meemaw,George Russell,1045840,87153,188251
+17,1412 Broadway,8.0,800,18454,101.0,Davy Jones,test1@okadaco.com,Jon Snow,Sheldon Cooper,Oscar Piastri,1863854,155321,335494
+18,1412 Broadway,16.0,1600,17793,86.0,Davy Jones,test1@okadaco.com,Daenerys Targaryen,Dr. Linkletter,Charles Leclerc,1530198,127517,275436
+19,1412 Broadway,16.0,1606,16696,86.0,Will Turner,test1@okadaco.com,Jon Snow,Pastor Jeff,Daniel Ricciardo,1435856,119655,258454
+20,1412 Broadway,23.0,2310,16310,80.0,Tia Dalma,test1@okadaco.com,Arya Stark,Meemaw,Daniel Ricciardo,1304800,108733,234864
+21,314 E 34th St,2.0,200,16209,93.0,Hector Barbossa,test1@okadaco.com,Cersei Lannister,Sheldon Cooper,Lewis Hamilton,1507437,125620,271339
+22,221-223 W 37th St,3.0,300,10814,105.0,Davy Jones,test1@okadaco.com,Bran Stark,Dr. Sturgis,Oscar Piastri,1135470,94623,204385
+23,14 E 44th St,4.0,400,18118,98.0,Hector Barbossa,test1@okadaco.com,Tyrion Lannister,Brenda Sparks,George Russell,1775564,147964,319602
+24,14 E 44th St,5.0,500,11742,95.0,Hector Barbossa,test1@okadaco.com,Sansa Stark,Pastor Jeff,Charles Leclerc,1115490,92958,200788
+25,202 W 40th St,2.0,200,19323,96.0,Will Turner,test1@okadaco.com,Cersei Lannister,Mary Cooper,Carlos Sainz,1855008,154584,333901
+26,202 W 40th St,5.0,500,17748,108.0,Bootstrap Bill,test1@okadaco.com,Daenerys Targaryen,Sheldon Cooper,Lewis Hamilton,1916784,159732,345021
+27,202 W 40th St,9.0,903,16689,98.0,Will Turner,test1@okadaco.com,Jaime Lannister,Brenda Sparks,Lando Norris,1635522,136294,294394
+28,345 Seventh Avenue,25.0,2501,13998,106.0,Davy Jones,test1@okadaco.com,Jaime Lannister,Sheldon Cooper,Oscar Piastri,1483788,123649,267082
+29,345 Seventh Avenue,23.0,Duplex,13328,81.0,James Norrington,test1@okadaco.com,Arya Stark,Mary Cooper,George Russell,1079568,89964,194322
+30,345 Seventh Avenue,21.0,677,13569,105.0,Davy Jones,test1@okadaco.com,Bran Stark,Mary Cooper,Carlos Sainz,1424745,118729,256454
+31,345 Seventh Avenue,20.0,1136,18300,95.0,Bootstrap Bill,test1@okadaco.com,Arya Stark,Meemaw,Carlos Sainz,1738500,144875,312930
+32,345 Seventh Avenue,20.0,901,16948,103.0,Elizabeth Swann,test1@okadaco.com,Jon Snow,George Cooper Sr.,Oscar Piastri,1745644,145470,314216
+33,345 Seventh Avenue,18.0,1802,17575,81.0,Tia Dalma,test1@okadaco.com,Daenerys Targaryen,Missy Cooper,Oscar Piastri,1423575,118631,256244
+34,345 Seventh Avenue,16.0,1602,16469,94.0,Jack Sparrow,test1@okadaco.com,Arya Stark,Georgie Cooper,Max Verstappen,1548086,129007,278655
+35,345 Seventh Avenue,15.0,1500,17177,106.0,Davy Jones,test1@okadaco.com,Jon Snow,Georgie Cooper,Sergio Perez,1820762,151730,327737
+36,345 Seventh Avenue,14.0,1403,18591,100.0,Tia Dalma,test1@okadaco.com,Cersei Lannister,Dr. Linkletter,Daniel Ricciardo,1859100,154925,334638
+37,345 Seventh Avenue,14.0,1404,11997,84.0,Davy Jones,test1@okadaco.com,Tyrion Lannister,Dr. Sturgis,Max Verstappen,1007748,83979,181395
+38,345 Seventh Avenue,12.0,1202,11424,90.0,Bootstrap Bill,test1@okadaco.com,Arya Stark,Brenda Sparks,Lando Norris,1028160,85680,185069
+39,345 Seventh Avenue,10.0,1000,18004,93.0,James Norrington,test1@okadaco.com,Jorah Mormont,Georgie Cooper,Daniel Ricciardo,1674372,139531,301387
+40,345 Seventh Avenue,8.0,803,9572,92.0,Bootstrap Bill,test1@okadaco.com,Daenerys Targaryen,Dr. Linkletter,Lewis Hamilton,880624,73385,158512
+41,345 Seventh Avenue,8.0,802,11778,103.0,James Norrington,test1@okadaco.com,Sansa Stark,Brenda Sparks,Max Verstappen,1213134,101095,218364
+42,345 Seventh Avenue,8.0,801,12121,91.0,Joshamee Gibbs,test1@okadaco.com,Sansa Stark,George Cooper Sr.,Lando Norris,1103011,91918,198542
+43,345 Seventh Avenue,6.0,551,11349,98.0,Hector Barbossa,test1@okadaco.com,Cersei Lannister,Brenda Sparks,George Russell,1112202,92684,200196
+44,345 Seventh Avenue,5.0,504,13049,106.0,James Norrington,test1@okadaco.com,Jon Snow,Pastor Jeff,Lando Norris,1383194,115266,248975
+45,345 Seventh Avenue,4.0,403,9835,98.0,Jack Sparrow,test1@okadaco.com,Tyrion Lannister,Sheldon Cooper,Carlos Sainz,963830,80319,173489
+46,345 Seventh Avenue,4.0,402,15359,108.0,Jack Sparrow,test1@okadaco.com,Daenerys Targaryen,Mary Cooper,Max Verstappen,1658772,138231,298579
+47,345 Seventh Avenue,3.0,726,14249,104.0,Will Turner,test1@okadaco.com,Sansa Stark,George Cooper Sr.,Sergio Perez,1481896,123491,266741
+48,345 Seventh Avenue,,B,17796,103.0,Elizabeth Swann,test1@okadaco.com,The Hound,Missy Cooper,Fernando Alonso,1832988,152749,329938
+49,345 Seventh Avenue,,A,16371,110.0,Davy Jones,test1@okadaco.com,Arya Stark,Sheldon Cooper,Fernando Alonso,1800810,150068,324146
+50,129-133 W 27th St,8.0,804,15889,110.0,Elizabeth Swann,test1@okadaco.com,Bran Stark,Mary Cooper,Sergio Perez,1747790,145649,314602
+51,99 University Pl,2.0,203,10213,91.0,Hector Barbossa,test1@okadaco.com,Jon Snow,Dr. Linkletter,Carlos Sainz,929383,77449,167289
+52,99 University Pl,2.0,205/206,15811,104.0,Hector Barbossa,test1@okadaco.com,Arya Stark,Georgie Cooper,Fernando Alonso,1644344,137029,295982
+53,99 University Pl,4.0,400,19362,86.0,James Norrington,test1@okadaco.com,Jorah Mormont,Georgie Cooper,Oscar Piastri,1665132,138761,299724
+54,99 University Pl,6.0,600,9814,83.0,Tia Dalma,test1@okadaco.com,Tyrion Lannister,Mary Cooper,Sergio Perez,814562,67880,146621
+55,99 University Pl,8.0,800,15757,86.0,Davy Jones,test1@okadaco.com,Jorah Mormont,Pastor Jeff,Charles Leclerc,1355102,112925,243918
+56,99 University Pl,10.0,1000,9125,92.0,James Norrington,test1@okadaco.com,Arya Stark,Dr. Sturgis,Fernando Alonso,839500,69958,151110
+57,552 Seventh Ave,5.0,500,10829,91.0,Cutler Beckett,test1@okadaco.com,Arya Stark,Dr. Sturgis,Max Verstappen,985439,82120,177379
+58,9 Times Sq,2.0,200,10092,91.0,James Norrington,test1@okadaco.com,Jon Snow,Dr. Sturgis,Lewis Hamilton,918372,76531,165307
+59,9 Times Sq,3.0,300,13391,88.0,Tia Dalma,test1@okadaco.com,The Hound,Georgie Cooper,Oscar Piastri,1178408,98201,212113
+60,9 Times Sq,3.0,3C,18890,94.0,Cutler Beckett,test1@okadaco.com,Arya Stark,Pastor Jeff,Carlos Sainz,1775660,147972,319619
+61,9 Times Sq,3.0,3A,14188,101.0,Joshamee Gibbs,test1@okadaco.com,Sansa Stark,Sheldon Cooper,Sergio Perez,1432988,119416,257938
+62,9 Times Sq,3.0,3B,9740,100.0,Will Turner,test1@okadaco.com,Sansa Stark,Brenda Sparks,Lando Norris,974000,81167,175320
+63,9 Times Sq,4.0,405,12282,99.0,Jack Sparrow,test1@okadaco.com,Tyrion Lannister,Pastor Jeff,Charles Leclerc,1215918,101327,218865
+64,9 Times Sq,7.0,700,17855,98.0,Jack Sparrow,test1@okadaco.com,The Hound,Brenda Sparks,Lando Norris,1749790,145816,314962
+65,9 Times Sq,12.0,1203,18059,93.0,Jack Sparrow,test1@okadaco.com,Jorah Mormont,Mary Cooper,Sergio Perez,1679487,139957,302308
+66,9 Times Sq,18.0,1802,15759,110.0,Bootstrap Bill,test1@okadaco.com,Jorah Mormont,George Cooper Sr.,Lewis Hamilton,1733490,144458,312028
+67,9 Times Sq,19.0,1902,12062,103.0,Joshamee Gibbs,test1@okadaco.com,Bran Stark,Brenda Sparks,Fernando Alonso,1242386,103532,223629
+68,9 Times Sq,20.0,2000,15209,109.0,Jack Sparrow,test1@okadaco.com,Jaime Lannister,Georgie Cooper,Carlos Sainz,1657781,138148,298401
+69,9 Times Sq,21.0,2102,16770,99.0,Davy Jones,test1@okadaco.com,Jon Snow,Brenda Sparks,George Russell,1660230,138353,298841
+70,9 Times Sq,21.0,2101,13081,81.0,Elizabeth Swann,test1@okadaco.com,Daenerys Targaryen,Georgie Cooper,Sergio Perez,1059561,88297,190721
+71,145 E 32nd St,,BSMT,18494,89.0,Jack Sparrow,test1@okadaco.com,Jorah Mormont,Georgie Cooper,Carlos Sainz,1645966,137164,296274
+72,145 E 32nd St,,RETL,15635,109.0,Joshamee Gibbs,test1@okadaco.com,Daenerys Targaryen,Meemaw,Fernando Alonso,1704215,142018,306759
+73,145 E 32nd St,,RETL,15534,88.0,Tia Dalma,test1@okadaco.com,Jaime Lannister,Dr. Sturgis,Sergio Perez,1366992,113916,246059
+74,145 E 32nd St,,MEZZ,11972,81.0,Davy Jones,test1@okadaco.com,Tyrion Lannister,Missy Cooper,Oscar Piastri,969732,80811,174552
+75,145 E 32nd St,11.0,1100,13375,85.0,Bootstrap Bill,test1@okadaco.com,Tyrion Lannister,Dr. Linkletter,George Russell,1136875,94740,204638
+76,145 E 32nd St,12.0,1200,10058,93.0,Hector Barbossa,test1@okadaco.com,Cersei Lannister,Dr. Sturgis,Carlos Sainz,935394,77950,168371
+77,173 Elizabeth St,,1008,10490,95.0,Jack Sparrow,test1@okadaco.com,Daenerys Targaryen,Pastor Jeff,Lewis Hamilton,996550,83046,179379
+78,759 Grand St,,566,18938,88.0,Cutler Beckett,test1@okadaco.com,Jaime Lannister,Brenda Sparks,Lewis Hamilton,1666544,138879,299978
+79,340 Lexington Ave,,1077,13539,90.0,James Norrington,test1@okadaco.com,Jaime Lannister,Dr. Sturgis,Daniel Ricciardo,1218510,101543,219332
+80,3 E 17th St,,540,17812,97.0,Hector Barbossa,test1@okadaco.com,Cersei Lannister,Pastor Jeff,George Russell,1727764,143980,310998
+81,53 E 34th St,,516,12989,110.0,Joshamee Gibbs,test1@okadaco.com,Sansa Stark,George Cooper Sr.,Max Verstappen,1428790,119066,257182
+82,206 W 23rd St,,588,10418,93.0,Elizabeth Swann,test1@okadaco.com,Cersei Lannister,Sheldon Cooper,Charles Leclerc,968874,80740,174397
+83,226 E 54th St,5.0,502,11113,106.0,Jack Sparrow,test1@okadaco.com,Jorah Mormont,George Cooper Sr.,Charles Leclerc,1177978,98165,212036
+84,315 Fifth Ave,7.0,703B,16302,102.0,Bootstrap Bill,test1@okadaco.com,Jaime Lannister,Pastor Jeff,Lando Norris,1662804,138567,299305
+85,315 Fifth Ave,8.0,800,13415,103.0,Hector Barbossa,test1@okadaco.com,Jorah Mormont,Missy Cooper,Oscar Piastri,1381745,115145,248714
+86,315 Fifth Ave,9.0,906,13318,85.0,Bootstrap Bill,test1@okadaco.com,The Hound,George Cooper Sr.,Sergio Perez,1132030,94336,203765
+87,315 Fifth Ave,9.0,904,15860,105.0,Davy Jones,test1@okadaco.com,Bran Stark,Mary Cooper,Oscar Piastri,1665300,138775,299754
+88,347 5th Ave,7.0,700,14246,110.0,Elizabeth Swann,test1@okadaco.com,Daenerys Targaryen,Brenda Sparks,Daniel Ricciardo,1567060,130588,282071
+89,347 5th Ave,11.0,1108,19848,103.0,Will Turner,test1@okadaco.com,Cersei Lannister,George Cooper Sr.,Fernando Alonso,2044344,170362,367982
+90,347 5th Ave,13.0,1303,19274,89.0,Bootstrap Bill,test1@okadaco.com,Arya Stark,Pastor Jeff,Lewis Hamilton,1715386,142949,308769
+91,347 5th Ave,14.0,1407,17727,90.0,Will Turner,test1@okadaco.com,Cersei Lannister,Meemaw,Lewis Hamilton,1595430,132953,287177
+92,224 W 30th St,2.0,204,17423,83.0,Tia Dalma,test1@okadaco.com,Tyrion Lannister,Brenda Sparks,Max Verstappen,1446109,120509,260300
+93,224 W 30th St,3.0,308,15592,92.0,Bootstrap Bill,test1@okadaco.com,Sansa Stark,Pastor Jeff,Daniel Ricciardo,1434464,119539,258204
+94,224 W 30th St,5.0,501,10773,96.0,Joshamee Gibbs,test1@okadaco.com,Sansa Stark,Dr. Linkletter,Lewis Hamilton,1034208,86184,186157
+95,224 W 30th St,5.0,502,19199,96.0,Elizabeth Swann,test1@okadaco.com,Cersei Lannister,Mary Cooper,Carlos Sainz,1843104,153592,331759
+96,224 W 30th St,6.0,602,11365,107.0,Tia Dalma,test1@okadaco.com,Daenerys Targaryen,Pastor Jeff,Lando Norris,1216055,101338,218890
+97,224 W 35th St,2.0,204,11665,104.0,Will Turner,test1@okadaco.com,Tyrion Lannister,Brenda Sparks,Lando Norris,1213160,101097,218369
+98,224 W 35th St,7.0,710B,14598,103.0,Bootstrap Bill,test1@okadaco.com,Jon Snow,Missy Cooper,Charles Leclerc,1503594,125300,270647
+99,224 W 35th St,13.0,1300,13574,102.0,Jack Sparrow,test1@okadaco.com,The Hound,Dr. Linkletter,Oscar Piastri,1384548,115379,249219
+100,650 Broadway,5.0,500,17090,106.0,Davy Jones,test1@okadaco.com,Jaime Lannister,Mary Cooper,Carlos Sainz,1811540,150962,326077
+101,1674 Broadway,3.0,300,14502,88.0,Jack Sparrow,test1@okadaco.com,Daenerys Targaryen,George Cooper Sr.,Sergio Perez,1276176,106348,229712
+102,1674 Broadway,6.0,600,15214,105.0,Will Turner,test1@okadaco.com,The Hound,George Cooper Sr.,Lando Norris,1597470,133123,287545
+103,1674 Broadway,6.0,A,19530,89.0,Davy Jones,test1@okadaco.com,Jon Snow,Dr. Sturgis,Carlos Sainz,1738170,144848,312871
+104,1674 Broadway,6.0,B,17979,110.0,Will Turner,test1@okadaco.com,Arya Stark,Missy Cooper,Daniel Ricciardo,1977690,164808,355984
+105,1674 Broadway,6.0,6A-2,17678,84.0,Tia Dalma,test1@okadaco.com,Daenerys Targaryen,Dr. Linkletter,Lewis Hamilton,1484952,123746,267291
+106,1674 Broadway,6.0,6A-1,16103,84.0,James Norrington,test1@okadaco.com,Sansa Stark,George Cooper Sr.,Oscar Piastri,1352652,112721,243477
+107,1674 Broadway,6.0,B-2,17136,91.0,Tia Dalma,test1@okadaco.com,Jorah Mormont,Meemaw,Daniel Ricciardo,1559376,129948,280688
+108,1674 Broadway,6.0,B-1,11292,90.0,Tia Dalma,test2@okadaco.com,Arya Stark,Brenda Sparks,Sergio Perez,1016280,84690,182930
+109,1674 Broadway,7.0,700,10154,86.0,Davy Jones,test2@okadaco.com,Bran Stark,Dr. Sturgis,Lewis Hamilton,873244,72770,157184
+110,1674 Broadway,8.0,800,9448,98.0,Jack Sparrow,test2@okadaco.com,Daenerys Targaryen,Dr. Linkletter,Charles Leclerc,925904,77159,166663
+111,1674 Broadway,9.0,900,12631,83.0,James Norrington,test2@okadaco.com,Jorah Mormont,Dr. Linkletter,Max Verstappen,1048373,87364,188707
+112,183 Bowery,,1073,17206,96.0,Bootstrap Bill,test2@okadaco.com,Arya Stark,Pastor Jeff,Charles Leclerc,1651776,137648,297320
+113,25 E 21st St,5.0,500,14870,103.0,Cutler Beckett,test2@okadaco.com,Bran Stark,Brenda Sparks,Sergio Perez,1531610,127634,275690
+114,25 E 21st St,6.0,600,12286,98.0,Cutler Beckett,test2@okadaco.com,Sansa Stark,Sheldon Cooper,Fernando Alonso,1204028,100336,216725
+115,25 E 21st St,9.0,901,12994,102.0,Bootstrap Bill,test2@okadaco.com,Bran Stark,Mary Cooper,Carlos Sainz,1325388,110449,238570
+116,25 E 21st St,9.0,900,17590,100.0,Elizabeth Swann,test2@okadaco.com,Jon Snow,Brenda Sparks,Lando Norris,1759000,146583,316620
+117,25 E 21st St,10.0,1000,10614,104.0,Elizabeth Swann,test2@okadaco.com,Bran Stark,Pastor Jeff,Oscar Piastri,1103856,91988,198694
+118,113 University Pl,6.0,600,19314,109.0,Bootstrap Bill,test2@okadaco.com,Jorah Mormont,Meemaw,George Russell,2105226,175436,378941
+119,113 University Pl,7.0,700,13883,94.0,Elizabeth Swann,test2@okadaco.com,Jorah Mormont,Sheldon Cooper,Fernando Alonso,1305002,108750,234900
+120,155 E 55th St,2.0,203,15921,85.0,Davy Jones,test2@okadaco.com,The Hound,Missy Cooper,Oscar Piastri,1353285,112774,243591
+121,155 E 55th St,3.0,303A,9325,101.0,Davy Jones,test2@okadaco.com,Jon Snow,George Cooper Sr.,Carlos Sainz,941825,78485,169529
+122,155 E 55th St,3.0,300A,13794,83.0,Elizabeth Swann,test2@okadaco.com,Jon Snow,Georgie Cooper,Oscar Piastri,1144902,95409,206082
+123,155 E 55th St,5.0,5I,18229,91.0,Davy Jones,test2@okadaco.com,Jorah Mormont,Missy Cooper,Lando Norris,1658839,138237,298591
+124,155 E 55th St,5.0,5J,10407,107.0,Joshamee Gibbs,test2@okadaco.com,Jon Snow,Missy Cooper,Fernando Alonso,1113549,92796,200439
+125,155 E 55th St,6.0,6H,15238,90.0,James Norrington,test2@okadaco.com,Jaime Lannister,Georgie Cooper,Max Verstappen,1371420,114285,246856
+126,155 E 55th St,6.0,6K,12906,83.0,Tia Dalma,test2@okadaco.com,Cersei Lannister,Mary Cooper,George Russell,1071198,89267,192816
+127,155 E 55th St,6.0,6A,16931,92.0,Tia Dalma,test2@okadaco.com,Daenerys Targaryen,Dr. Sturgis,Charles Leclerc,1557652,129804,280377
+128,19 W 21st St,8.0,803,13613,95.0,Will Turner,test2@okadaco.com,Arya Stark,Dr. Linkletter,Fernando Alonso,1293235,107770,232782
+129,19 W 21st St,8.0,905,12342,87.0,Cutler Beckett,test2@okadaco.com,Arya Stark,Meemaw,Daniel Ricciardo,1073754,89480,193276
+130,121-127 W 27th St,5.0,501,19651,91.0,Cutler Beckett,test2@okadaco.com,Arya Stark,Georgie Cooper,Max Verstappen,1788241,149020,321883
+131,121-127 W 27th St,7.0,702,14618,82.0,Joshamee Gibbs,test2@okadaco.com,Sansa Stark,Dr. Sturgis,Max Verstappen,1198676,99890,215762
+132,124 W 36th St,2.0,200,15008,81.0,Cutler Beckett,test2@okadaco.com,Sansa Stark,Pastor Jeff,Charles Leclerc,1215648,101304,218817
+133,124 W 36th St,3.0,300,11226,105.0,Joshamee Gibbs,test2@okadaco.com,Tyrion Lannister,Sheldon Cooper,Sergio Perez,1178730,98228,212171
+134,124 W 36th St,7.0,700,10489,95.0,Jack Sparrow,test2@okadaco.com,Daenerys Targaryen,Pastor Jeff,Lando Norris,996455,83038,179362
+135,301 E Houston St,1.0,100,9351,101.0,Cutler Beckett,test2@okadaco.com,Bran Stark,Sheldon Cooper,Max Verstappen,944451,78704,170001
+136,365-369 Seventh Ave,2.0,201,14539,95.0,Bootstrap Bill,test2@okadaco.com,Jaime Lannister,Dr. Sturgis,Lewis Hamilton,1381205,115100,248617
+137,365-369 Seventh Ave,3.0,301,11567,94.0,Will Turner,test2@okadaco.com,The Hound,George Cooper Sr.,George Russell,1087298,90608,195714
+138,135 W 36th St,6.0,600,14029,108.0,Cutler Beckett,test2@okadaco.com,Bran Stark,George Cooper Sr.,Lando Norris,1515132,126261,272724
+139,135 W 36th St,9.0,900,14066,100.0,Hector Barbossa,test2@okadaco.com,Jaime Lannister,Brenda Sparks,Lando Norris,1406600,117217,253188
+140,135 W 36th St,13.0,1300,12483,80.0,Davy Jones,test2@okadaco.com,Bran Stark,Georgie Cooper,Carlos Sainz,998640,83220,179755
+141,135 W 36th St,17.0,17N,19918,99.0,Bootstrap Bill,test2@okadaco.com,Jon Snow,Sheldon Cooper,Carlos Sainz,1971882,164324,354939
+142,269 W 39th St,,810,13507,103.0,Tia Dalma,test2@okadaco.com,Jon Snow,Dr. Linkletter,Oscar Piastri,1391221,115935,250420
+143,261 E 78th St,,632,14955,85.0,Elizabeth Swann,test2@okadaco.com,Jon Snow,George Cooper Sr.,George Russell,1271175,105931,228812
+144,13 E 16th St,,684,18503,86.0,Hector Barbossa,test2@okadaco.com,Jorah Mormont,Meemaw,Sergio Perez,1591258,132605,286426
+145,21-23 W 39th St,,1031,13041,106.0,Tia Dalma,test2@okadaco.com,Tyrion Lannister,Dr. Sturgis,Fernando Alonso,1382346,115196,248822
+146,111 W 24th St,,RETL,9010,84.0,Davy Jones,test2@okadaco.com,Cersei Lannister,Georgie Cooper,Fernando Alonso,756840,63070,136231
+147,111 W 24th St,4.0,400,16242,89.0,Will Turner,test2@okadaco.com,Jon Snow,Dr. Sturgis,Lewis Hamilton,1445538,120462,260197
+148,111 W 24th St,5.0,501,10001,95.0,Elizabeth Swann,test2@okadaco.com,Cersei Lannister,Pastor Jeff,Sergio Perez,950095,79175,171017
+149,111 W 24th St,7.0,700,18427,89.0,James Norrington,test2@okadaco.com,Daenerys Targaryen,Georgie Cooper,Daniel Ricciardo,1640003,136667,295201
+150,315 W 35th St,4.0,400,9351,89.0,Bootstrap Bill,test2@okadaco.com,Bran Stark,Sheldon Cooper,Sergio Perez,832239,69353,149803
+151,315 W 35th St,5.0,503,11809,90.0,Tia Dalma,test2@okadaco.com,Cersei Lannister,Meemaw,Charles Leclerc,1062810,88568,191306
+152,315 W 35th St,7.0,700,11842,94.0,Jack Sparrow,test2@okadaco.com,Sansa Stark,Sheldon Cooper,Lewis Hamilton,1113148,92762,200367
+153,315 W 35th St,8.0,8000,10263,107.0,Cutler Beckett,test2@okadaco.com,Cersei Lannister,Brenda Sparks,Lando Norris,1098141,91512,197665
+154,315 W 35th St,9.0,9000,12809,101.0,James Norrington,test2@okadaco.com,Cersei Lannister,Pastor Jeff,Lando Norris,1293709,107809,232868
+155,315 W 35th St,10.0,1000,11287,97.0,Jack Sparrow,test2@okadaco.com,The Hound,Meemaw,Lando Norris,1094839,91237,197071
+156,25 W 39th St,2.0,200,13740,95.0,Jack Sparrow,test2@okadaco.com,Daenerys Targaryen,Meemaw,George Russell,1305300,108775,234954
+157,25 W 39th St,3.0,300,16282,80.0,Hector Barbossa,test2@okadaco.com,Jaime Lannister,Meemaw,Daniel Ricciardo,1302560,108547,234461
+158,1162 Broadway,4.0,400,14676,100.0,Jack Sparrow,test2@okadaco.com,The Hound,George Cooper Sr.,Sergio Perez,1467600,122300,264168
+159,1162 Broadway,6.0,600,12898,110.0,Elizabeth Swann,test2@okadaco.com,Jon Snow,Georgie Cooper,Oscar Piastri,1418780,118232,255380
+160,1162 Broadway,7.0,700,14018,105.0,Davy Jones,test2@okadaco.com,Daenerys Targaryen,Dr. Sturgis,Oscar Piastri,1471890,122658,264940
+161,1271-1273 Broadway,4.0,P4,18782,105.0,Jack Sparrow,test2@okadaco.com,Cersei Lannister,Missy Cooper,Sergio Perez,1972110,164343,354980
+162,139 Fifth Ave,2.0,200,16211,86.0,Cutler Beckett,test2@okadaco.com,Daenerys Targaryen,Pastor Jeff,Max Verstappen,1394146,116179,250946
+163,139 Fifth Ave,5.0,500,18384,82.0,Davy Jones,test2@okadaco.com,Bran Stark,Meemaw,Daniel Ricciardo,1507488,125624,271348
+164,139 Fifth Ave,6.0,600,15661,99.0,Tia Dalma,test2@okadaco.com,Jon Snow,Dr. Sturgis,Charles Leclerc,1550439,129203,279079
+165,104-110 E 40th St,9.0,903,9070,95.0,Tia Dalma,test2@okadaco.com,Bran Stark,Sheldon Cooper,Oscar Piastri,861650,71804,155097
+166,22 W 32nd St,9.0,900,10523,93.0,Bootstrap Bill,test2@okadaco.com,Jaime Lannister,Meemaw,George Russell,978639,81553,176155
+167,22 W 32nd St,10.0,1000,14074,102.0,Jack Sparrow,test2@okadaco.com,Sansa Stark,Brenda Sparks,Lando Norris,1435548,119629,258399
+168,22 W 32nd St,11.0,1100,14633,98.0,James Norrington,test2@okadaco.com,Jorah Mormont,Sheldon Cooper,George Russell,1434034,119503,258126
+169,22 W 32nd St,14.0,1400,19852,96.0,Jack Sparrow,test2@okadaco.com,Jaime Lannister,Meemaw,Charles Leclerc,1905792,158816,343043
+170,137 W 19th St,,640,16542,81.0,Bootstrap Bill,test2@okadaco.com,Jaime Lannister,Missy Cooper,Lando Norris,1339902,111659,241182
+171,147-149 W 46th St,,594,14932,89.0,Jack Sparrow,test2@okadaco.com,The Hound,Dr. Linkletter,Fernando Alonso,1328948,110746,239211
+172,28 W 30th St,3.0,302,13149,80.0,Elizabeth Swann,test2@okadaco.com,The Hound,Missy Cooper,Carlos Sainz,1051920,87660,189346
+173,29 W 36th St,4.0,401,14526,106.0,Davy Jones,test2@okadaco.com,Jorah Mormont,Mary Cooper,Carlos Sainz,1539756,128313,277156
+174,29 W 36th St,5.0,5E,14905,82.0,Jack Sparrow,test2@okadaco.com,Jaime Lannister,Mary Cooper,Fernando Alonso,1222210,101851,219998
+175,29 W 36th St,5.0,5T,16467,86.0,Elizabeth Swann,test2@okadaco.com,Jorah Mormont,Dr. Sturgis,Lando Norris,1416162,118014,254909
+176,29 W 36th St,5.0,5W,19645,100.0,Elizabeth Swann,test2@okadaco.com,Cersei Lannister,Missy Cooper,Oscar Piastri,1964500,163708,353610
+177,29 W 36th St,8.0,804,15917,93.0,Cutler Beckett,test2@okadaco.com,The Hound,Georgie Cooper,Lewis Hamilton,1480281,123357,266451
+178,16 E 52nd St,4.0,403,9580,106.0,Davy Jones,test2@okadaco.com,Sansa Stark,Georgie Cooper,Oscar Piastri,1015480,84623,182786
+179,16 E 52nd St,7.0,702,14159,87.0,James Norrington,test2@okadaco.com,Jon Snow,Missy Cooper,Daniel Ricciardo,1231833,102653,221730
+180,16 E 52nd St,15.0,E15,11882,98.0,Davy Jones,test2@okadaco.com,Tyrion Lannister,Dr. Linkletter,Oscar Piastri,1164436,97036,209598
+181,16 E 52nd St,16.0,E16,12413,109.0,Joshamee Gibbs,test2@okadaco.com,Arya Stark,Pastor Jeff,Charles Leclerc,1353017,112751,243543
+182,500 Fifth Ave,42.0,4200,17888,93.0,Cutler Beckett,test2@okadaco.com,Sansa Stark,Dr. Linkletter,Max Verstappen,1663584,138632,299445
+183,11 W 25th St,,RETL,11294,92.0,James Norrington,test2@okadaco.com,Sansa Stark,Dr. Linkletter,Lewis Hamilton,1039048,86587,187029
+184,11 W 25th St,4.0,400,18564,91.0,Bootstrap Bill,test2@okadaco.com,Arya Stark,Meemaw,Carlos Sainz,1689324,140777,304078
+185,11 W 25th St,7.0,700,11939,104.0,Joshamee Gibbs,test2@okadaco.com,Jaime Lannister,Mary Cooper,Daniel Ricciardo,1241656,103471,223498
+186,11 W 25th St,11.0,1100,12310,86.0,Jack Sparrow,test2@okadaco.com,Arya Stark,Brenda Sparks,George Russell,1058660,88222,190559
+187,40 W 37th St,1.0,Store A,12937,107.0,Will Turner,test2@okadaco.com,Bran Stark,Brenda Sparks,George Russell,1384259,115355,249167
+188,535-547 W 45th St,8.0,800,17085,97.0,Jack Sparrow,test2@okadaco.com,The Hound,Sheldon Cooper,Carlos Sainz,1657245,138104,298304
+189,255 Fifth Ave,3.0,300,12280,96.0,Jack Sparrow,test2@okadaco.com,Jaime Lannister,Mary Cooper,Carlos Sainz,1178880,98240,212198
+190,255 Fifth Ave,4.0,400,13701,87.0,Will Turner,test2@okadaco.com,Bran Stark,George Cooper Sr.,Max Verstappen,1191987,99332,214558
+191,255 Fifth Ave,5.0,500,18361,91.0,Elizabeth Swann,test2@okadaco.com,The Hound,Missy Cooper,Lewis Hamilton,1670851,139238,300753
+192,227-229 W 29th St,3.0,3F,12187,82.0,Joshamee Gibbs,test2@okadaco.com,The Hound,Brenda Sparks,Lando Norris,999334,83278,179880
+193,227-229 W 29th St,4.0,4R,9662,109.0,Elizabeth Swann,test2@okadaco.com,Jaime Lannister,Dr. Linkletter,Lewis Hamilton,1053158,87763,189568
+194,227-229 W 29th St,7.0,700,17062,80.0,Hector Barbossa,test2@okadaco.com,Tyrion Lannister,George Cooper Sr.,Fernando Alonso,1364960,113747,245693
+195,227-229 W 29th St,12.0,1200,15668,87.0,Elizabeth Swann,test2@okadaco.com,Jorah Mormont,Mary Cooper,Max Verstappen,1363116,113593,245361
+196,53 Pearl St,2.0,200,9291,85.0,Joshamee Gibbs,test2@okadaco.com,Sansa Stark,Sheldon Cooper,George Russell,789735,65811,142152
+197,53 Pearl St,4.0,400,16596,85.0,Joshamee Gibbs,test2@okadaco.com,Sansa Stark,Brenda Sparks,Fernando Alonso,1410660,117555,253919
+198,247 W 30th St,2.0,2F,12565,104.0,Bootstrap Bill,test2@okadaco.com,Daenerys Targaryen,Sheldon Cooper,Carlos Sainz,1306760,108897,235217
+199,247 W 30th St,3.0,3R,15946,97.0,Hector Barbossa,test2@okadaco.com,The Hound,George Cooper Sr.,Sergio Perez,1546762,128897,278417
+200,247 W 30th St,4.0,4F,17052,91.0,Jack Sparrow,test2@okadaco.com,Jon Snow,Georgie Cooper,Lando Norris,1551732,129311,279312
+201,50 W 17th St,10.0,1000,16311,109.0,Davy Jones,test2@okadaco.com,Jaime Lannister,Missy Cooper,Sergio Perez,1777899,148158,320022
+202,50 W 17th St,12.0,PH,16402,109.0,Davy Jones,test2@okadaco.com,Daenerys Targaryen,Meemaw,George Russell,1787818,148985,321807
+203,7 W 36th St,12.0,1200,18828,84.0,Joshamee Gibbs,test2@okadaco.com,Jon Snow,George Cooper Sr.,Sergio Perez,1581552,131796,284679
+204,8 W 38th St,9.0,901,17330,80.0,Hector Barbossa,test2@okadaco.com,Arya Stark,Dr. Sturgis,Max Verstappen,1386400,115533,249552
+205,8 W 38th St,11.0,1102,17315,93.0,Davy Jones,test2@okadaco.com,Tyrion Lannister,Dr. Linkletter,Fernando Alonso,1610295,134191,289853
+206,8 W 38th St,11.0,1103,19892,90.0,Tia Dalma,test2@okadaco.com,Jon Snow,Meemaw,Max Verstappen,1790280,149190,322250
+207,8 W 38th St,11.0,1104,10179,92.0,Jack Sparrow,test2@okadaco.com,Daenerys Targaryen,Sheldon Cooper,Daniel Ricciardo,936468,78039,168564
+208,39-41 W 38th St,5.0,5W,11624,84.0,Tia Dalma,test2@okadaco.com,Jaime Lannister,Georgie Cooper,Lewis Hamilton,976416,81368,175755
+209,39-41 W 38th St,8.0,8W,19266,89.0,Bootstrap Bill,test2@okadaco.com,Bran Stark,Brenda Sparks,Charles Leclerc,1714674,142890,308641
+210,42 W 38th St,6.0,604,9717,97.0,Cutler Beckett,test2@okadaco.com,Tyrion Lannister,Dr. Linkletter,Daniel Ricciardo,942549,78546,169659
+211,42 W 38th St,8.0,800,11791,99.0,James Norrington,test2@okadaco.com,Cersei Lannister,Brenda Sparks,Lando Norris,1167309,97276,210116
+212,42 W 38th St,10.0,1004,10100,91.0,Will Turner,test2@okadaco.com,Jaime Lannister,Missy Cooper,Lewis Hamilton,919100,76592,165438
+213,42 W 38th St,12.0,1200,14832,101.0,Bootstrap Bill,test2@okadaco.com,The Hound,Dr. Linkletter,Lewis Hamilton,1498032,124836,269646
+214,6 W 48th St,4.0,400,11067,83.0,Elizabeth Swann,test2@okadaco.com,Bran Stark,Mary Cooper,Fernando Alonso,918561,76547,165341
+215,6 W 48th St,5.0,500,14434,102.0,Cutler Beckett,test2@okadaco.com,Jorah Mormont,Missy Cooper,Daniel Ricciardo,1472268,122689,265008
+216,6 W 48th St,6.0,600,11712,109.0,Hector Barbossa,test2@okadaco.com,Cersei Lannister,Sheldon Cooper,Fernando Alonso,1276608,106384,229789
+217,144 W 37th St,4.0,400,15110,104.0,Davy Jones,test2@okadaco.com,Jon Snow,Meemaw,George Russell,1571440,130953,282859
+218,144 W 37th St,5.0,500,17572,106.0,Elizabeth Swann,test2@okadaco.com,Daenerys Targaryen,Mary Cooper,Oscar Piastri,1862632,155219,335274
+219,40 W 38th St,11.0,1008,17672,84.0,Davy Jones,test2@okadaco.com,Daenerys Targaryen,Missy Cooper,Sergio Perez,1484448,123704,267201
+220,60 W 45th S,11.0,788,19209,88.0,Hector Barbossa,test2@okadaco.com,Jorah Mormont,Dr. Sturgis,Oscar Piastri,1690392,140866,304271
+221,412 Broadway,5.0,792,16269,109.0,Davy Jones,test2@okadaco.com,Jon Snow,George Cooper Sr.,Daniel Ricciardo,1773321,147777,319198
+222,135 W 52nd St,8.0,1189,17050,82.0,Davy Jones,test2@okadaco.com,Cersei Lannister,Sheldon Cooper,Fernando Alonso,1398100,116508,251658
+223,171 Elizabeth St,6.0,768,19507,107.0,Tia Dalma,test2@okadaco.com,Arya Stark,Sheldon Cooper,Oscar Piastri,2087249,173937,375705
+224,84 Mulberry St,8.0,1118,9567,101.0,Tia Dalma,test2@okadaco.com,Arya Stark,Dr. Linkletter,Charles Leclerc,966267,80522,173928
+225,288-290 Water St,10.0,1069,19133,85.0,Joshamee Gibbs,test2@okadaco.com,Arya Stark,Dr. Sturgis,Lewis Hamilton,1626305,135525,292735

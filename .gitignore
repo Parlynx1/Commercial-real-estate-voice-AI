@@ -1,0 +1,75 @@
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3 > .gitignore
+commercial_real_estate.db
+
+# Logs
+*.log
+logs/
+
+# Audio files
+*.wav
+*.mp3
+*.m4a
+*.flac
+
+# Documents
+data/documents/
+data/audio/
+
+# Vector stores
+data/faiss_index.index
+data/documents.pkl
+data/metadata.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+temp/
