@@ -44,7 +44,7 @@
 
 1. **Clone the Repository**
 
-git clone https://github.com/YOUR_USERNAME/commercial-real-estate-voice-ai.git
+git clone https://github.com/YOUR_USERNAME/commercial-real-estate-voice-ai.git](https://github.com/Parlynx1/Commercial-real-estate-voice-AI.git
 cd commercial-real-estate-voice-ai
 Create and Activate Virtual Environment
 
